@@ -125,7 +125,7 @@ Conclusion: The project is technically achievable, economically affordable and s
 *Optimized delivery routes.
 *Data-driven agricultural decisions.
 
-4.Measurable project success indicators
+4. Measurable project success indicators
 *Increase in farmers' net earnings per transaction.
 *Reduction in delivery cost per order.
 *Reduction in time taken to sell produce.
